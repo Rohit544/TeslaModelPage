@@ -10,14 +10,15 @@ function Home() {
             title= "Model S"
             dictionary= "Order Online Touchless Delevary"
             leftBtnText="Customer Service"
-            rightBtnText= "Existing Price"
+            rightBtnText= "Existing Price "
         />
-        <Section
+        
+        {/* <Section
             title= "Model X"
             dictionary="Order Online Touchless Delevary"
             leftBtnText="Customer Service"
-            rightBtnText= "Existing Price"
-         />
+            rightBtnText= "Existing Price "
+         /> */}
 
 
         
